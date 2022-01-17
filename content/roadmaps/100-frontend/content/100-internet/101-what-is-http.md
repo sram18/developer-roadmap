@@ -1,6 +1,6 @@
 # What is HTTP?
 
-HTTP is the `TCP/IP` based application layer communication protocol which standardizes how the client and server communicate with each other. It defines how the content is requested and transmitted across the internet.
+HTTP (Hyper Text Transfer Protocol)is the `TCP/IP` based application layer communication protocol which standardizes how the client and server communicate with each other. It defines how the content is requested and transmitted across the internet.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/'>What is HTTP?</BadgeLink>
